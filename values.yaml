@@ -1159,7 +1159,7 @@ sentinel:
   annotations: {}
   ## @param sentinel.masterSet Master set name
   ##
-  masterSet: int-hotel-master
+  masterSet: mymaster
   ## @param sentinel.quorum Sentinel Quorum
   ##
   quorum: 2
